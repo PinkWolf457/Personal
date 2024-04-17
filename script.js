@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
     loader.style.display = "block";
     loader.style.opacity = "1";
 
-    const duration = 1000;
+    const duration = 3000;
     setTimeout(() => {
       loader.style.opacity = "0";
 
